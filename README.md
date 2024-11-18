@@ -18,4 +18,4 @@ Website sederhana untuk mempromosikan acara tahunan **Festival Club Jepang**. We
 ## 📂 Struktur Proyek
 ```plaintext
 |-- h3.html       # Halaman utama
-|-- jpg          # Folder untuk menyimpan gambar dan ikon
+|-- jpg          # Gambar dan ikon
