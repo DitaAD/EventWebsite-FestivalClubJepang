@@ -13,7 +13,6 @@ Website sederhana untuk mempromosikan acara tahunan **Festival Club Jepang**. We
 - **HTML5**: Untuk struktur halaman.
 - **CSS3**: Untuk desain dan gaya.
 - **Bootstrap 5**: Untuk mempercepat pengembangan dan memastikan *responsive design*.
-- **JavaScript**: Untuk fitur interaktif (jika ada).
 
 ## 📂 Struktur Proyek
 ```plaintext
